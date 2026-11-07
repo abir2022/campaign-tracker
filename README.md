@@ -1,3 +1,5 @@
+![Campaign Success Tracker](assets/banner.svg)
+
 # Campaign Success Tracker
 
 A single-file, zero-backend dashboard that answers the one question field-and-dealer campaigns always
